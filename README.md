@@ -26,7 +26,7 @@ L'application affiche la position actuelle de l'ISS à partir d'une API publique
 ## Installation
 
 ```bash
-git clone https://github.com/ton-profil/iss-live-tracker.git
+git clone https://github.com/LouisD-M/iss-live-tracker.git
 cd iss-live-tracker
 npm install
 npm run dev
